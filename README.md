@@ -1,0 +1,1 @@
+This is a small project to show in the Sociedade Brasileira para o Progresso da Ciência (SBPC) event hosted at UFPA in 2024. Basically, there is one sensor to detect movement and a buzzer to make noise when it happens. Meanwhile, one RGB led is shining to gather attention, hopefully. 
